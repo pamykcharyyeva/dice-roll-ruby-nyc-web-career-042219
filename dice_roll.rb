@@ -4,5 +4,5 @@
 
 def roll
   Integer (1<6)
-  return roll
+  return Integear 
 end
